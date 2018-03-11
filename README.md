@@ -1,3 +1,8 @@
-# My Awesome Book
+# 读书推荐
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+当你只是希望初步或者大概了解某一个东西，百度和google就够了。
+
+当你希望深入，甚至相对系统的学习某样东西，毫无疑问拿一本这方面最权威的入门书，是最好的一个选择了
+
+这里更多是书的简介和名称索引，如果你有兴趣，可以拿一本书好好的读一下。
+

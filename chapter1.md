@@ -1,3 +1,8 @@
-# First Chapter
+# Python
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+
+
+《Learn Python The Hard Way》笨方法学习Python
+
+最笨的方法有可能是最有效的。不要寄希望于思维脑图记录的点点有帮助于你更快的学习python。跟着作者把基本的代码一行行敲下来，不用担心是否能够记得。记住最笨的方法可能是最好的！
+
